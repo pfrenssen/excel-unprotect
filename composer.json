@@ -1,0 +1,12 @@
+{
+    "name": "pfrenssen/excel-unprotect",
+    "description": "Unprotects password protected XLSX files",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Pieter Frenssen",
+            "email": "pieter@frenssen.be"
+        }
+    ],
+    "minimum-stability": "dev"
+}
